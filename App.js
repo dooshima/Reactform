@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <h1>USER REGISTRATION FORM </h1>
         <p>Welcome fill up this form</p>
-      <ContactForm addContact = {this.addContact}/>
+      <ContactForm/>
       
 
       </div>
